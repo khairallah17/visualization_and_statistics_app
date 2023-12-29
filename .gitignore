@@ -25,6 +25,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 bin/
+.*
+etc/
+share/
+lib64/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
